@@ -1,6 +1,6 @@
 package AsciiCode;
 
-//백준 : 11654번 - 아스키 코드
+//백준 : 11654번 - [기본]아스키 코드
 import java.util.Scanner;
 
 public class Main {
